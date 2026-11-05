@@ -4,7 +4,7 @@ Predicts the price of a laptop from its specifications using supervised regressi
 
 **Live app:**  https://laptop-price-poojapradeep.streamlit.app/
 
-![App screenshot](screenshot.png)
+![App screenshot](Screenshot.png)
 
 ## Problem
 Given a laptop's brand, type, RAM, screen, processor, storage, graphics card and operating
